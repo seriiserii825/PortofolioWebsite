@@ -71,7 +71,7 @@ URL = "pricing"
 weight = 5
 
 [[menu.main]]
-name = "Blog"
+name = "My Blog"
 URL = "blog"
 weight = 6
 

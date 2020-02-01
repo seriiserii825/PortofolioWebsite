@@ -2,73 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c75690e9-3a55-490f-8035-f0ff9ec28a6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/style.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/english/author/john-doe/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/english/author/mark-dinn/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/english/blog/installation/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/english/blog/simple-blog-post-1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/english/blog/simple-blog-post-2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/english/blog/simple-blog-post-3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/english/blog/simple-blog-post-4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/english/blog/simple-blog-post-5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/english/blog/simple-blog-post-6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/english/blog/simple-blog-post-7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/english/blog/simple-blog-post-8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/english/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/english/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/english/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/english/page/2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/french/author/john-doe/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/french/author/mark-dinn/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/french/blog/installation/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/french/blog/simple-blog-post-1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/french/blog/simple-blog-post-2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/french/blog/simple-blog-post-3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/french/blog/simple-blog-post-4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/french/blog/simple-blog-post-5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/french/blog/simple-blog-post-6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/french/blog/simple-blog-post-7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/french/blog/simple-blog-post-8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/french/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/french/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/french/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/french/page/2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/backgrounds/rain.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/script.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/animate-css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/bootstrap/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/bootstrap/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/google-map/map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/lazy-load/lozad.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/magnific-popup/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/magnific-popup/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/shuffle/shuffle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/slick/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/slick/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/slick/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/slick/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/slick/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/slick/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/slick/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/themify-icons/fonts/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/themify-icons/fonts/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/themify-icons/fonts/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/themify-icons/fonts/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/themify-icons/themify-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/plugins/wow/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/config.toml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/english/author/john-doe.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/english/author/mark-dinn.md" beforeDir="false" />
@@ -166,7 +99,7 @@
       <workItem from="1580555333846" duration="23000" />
       <workItem from="1580555371455" duration="4052000" />
       <workItem from="1580583932999" duration="255000" />
-      <workItem from="1580585881741" duration="1452000" />
+      <workItem from="1580585881741" duration="1795000" />
     </task>
     <servers />
   </component>
