@@ -2,8 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c75690e9-3a55-490f-8035-f0ff9ec28a6f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/english/author/john-doe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/english/author/mark-dinn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/english/blog/installation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/english/blog/simple-blog-post-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/english/blog/simple-blog-post-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/english/blog/simple-blog-post-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/english/blog/simple-blog-post-4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/english/blog/simple-blog-post-5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/english/blog/simple-blog-post-6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/english/blog/simple-blog-post-7.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/english/blog/simple-blog-post-8.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/french/author/john-doe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/french/author/mark-dinn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/french/blog/installation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/french/blog/simple-blog-post-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/french/blog/simple-blog-post-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/french/blog/simple-blog-post-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/french/blog/simple-blog-post-4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/french/blog/simple-blog-post-5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/french/blog/simple-blog-post-6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/french/blog/simple-blog-post-7.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/content/french/blog/simple-blog-post-8.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/en/about.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/en/banner.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/en/contact.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/en/cta.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/en/feature.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/en/funfacts.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/en/portfolio.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/en/pricing.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/en/service.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/en/skill.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/en/team.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/en/testimonial.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/fr/about.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/fr/banner.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/fr/contact.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/fr/cta.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/fr/feature.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/fr/funfacts.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/fr/portfolio.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/fr/pricing.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/fr/service.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/fr/skill.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/fr/team.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/data/fr/testimonial.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/i18n/en.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/meghna-hugo/exampleSite/i18n/fr.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +66,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XCg8f9vW1BZ9U69CiNpY8gqay7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,11 +99,15 @@
       <workItem from="1580555333846" duration="23000" />
       <workItem from="1580555371455" duration="4052000" />
       <workItem from="1580583932999" duration="255000" />
+      <workItem from="1580585881741" duration="311000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1580585903884">
